@@ -88,7 +88,6 @@
     <orderEntry type="library" scope="TEST" name="SBT: org.json:json:20080701:jar" level="project" />
     <orderEntry type="library" scope="TEST" name="SBT: org.mockito:mockito-core:1.9.5:jar" level="project" />
     <orderEntry type="library" scope="TEST" name="SBT: org.objenesis:objenesis:1.0:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.postgresql:postgresql:9.3-1102-jdbc4:jar" level="project" />
     <orderEntry type="library" name="SBT: org.reflections:reflections:0.9.8:jar" level="project" />
     <orderEntry type="library" scope="TEST" name="SBT: org.scala-lang:scala-compiler:2.11.0:jar" level="project" />
     <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.11.4:jar" level="project" />
@@ -133,5 +132,6 @@
     <orderEntry type="library" scope="TEST" name="SBT: xalan:xalan:2.7.1:jar" level="project" />
     <orderEntry type="library" name="SBT: xerces:xercesImpl:2.11.0:jar" level="project" />
     <orderEntry type="library" name="SBT: xml-apis:xml-apis:1.4.01:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.postgresql:postgresql:9.4-1201-jdbc4:jar" level="project" />
   </component>
 </module>
